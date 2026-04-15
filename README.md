@@ -7,6 +7,7 @@ Este repositório contém o código para controle de polarização utilizando **
 1. [Requisitos](#requisitos)
 2. [Como Usar](#como-usar)
    - [Comando `serie`](#comando-serie)
+   - [Cimando `serie compensation`](#comando-serie_compensation)
    - [Comando `power_impactdet`](#comando-power_impactdet)
    - [Comando `power_impact_geral`](#comando-power_impact_geral)
    - [Comando `move`](#comando-move)
