@@ -46,7 +46,7 @@ Descrição detalhada sobre como usar o comando `serie`.
 - `--compensation`: Ativa a compensação do pedal.
 - `--minimize`: Define qual detector minimizar, ex: `h`, `v`, `d`, `a`.
 - `--active_paddles`: Define quais pedais podem atuar, ex: `1 2 3`.
-
+por definição, caso não solicitado o comando acima, todos os pedais atuarão. 
 ## Comando `serie compensation`
 
 Descrição detalhada sobre o comando `serie` com compensação.
