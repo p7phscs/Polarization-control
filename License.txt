@@ -1,0 +1,9 @@
+MIT License
+
+Copyright (c) [2026] [Paulo Martins]
+
+Permissão é concedida, gratuitamente, a qualquer pessoa que obtenha uma cópia deste software e dos arquivos de documentação associados, para lidar no software sem restrições, incluindo, sem limitação, os direitos de usar, copiar, modificar, fundir, publicar, distribuir, sublicenciar e/ou vender cópias do software, e para permitir que as pessoas a quem o software é fornecido o façam, sujeito às seguintes condições:
+
+A copyright acima e esta permissão devem ser incluídas em todas as cópias ou partes substanciais do software.
+
+O SOFTWARE É FORNECIDO "COMO ESTÁ", SEM GARANTIAS DE QUALQUER TIPO, EXPRESSAS OU IMPLÍCITAS, INCLUINDO, MAS NÃO SE LIMITANDO A GARANTIAS DE COMERCIABILIDADE, ADEQUAÇÃO A UM FIM ESPECÍFICO E NÃO INFRAÇÃO. EM NENHUM CASO OS AUTORES OU DETENTORES DOS DIREITOS AUTORAIS SERÃO RESPONSÁVEIS POR QUALQUER REIVINDICAÇÃO, DANO OU OUTRO DESEMPENHO, SEJA EM AÇÃO DE CONTRATO, DELITO OU QUALQUER OUTRA TEORIA, DECORRENTE DE OU EM CONEXÃO COM O SOFTWARE OU O USO OU OUTROS NEGÓCIOS NO SOFTWARE.
