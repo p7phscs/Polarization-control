@@ -36,3 +36,39 @@ Instale as dependências necessárias com o seguinte comando:
 
 ```bash
 pip install ADS1x15-ADC qmi numpy matplotlib
+```
+## Comando `serie`
+
+Descrição detalhada sobre como usar o comando `serie`.
+
+### Parâmetros:
+- `--duration`: Tempo da execução da série temporal em segundos.
+- `--compensation`: Ativa a compensação do pedal.
+- `--minimize`: Define qual detector minimizar, ex: `h`, `v`, `d`, `a`.
+- `--active_paddles`: Define quais pedais podem atuar, ex: `1 2 3`.
+
+## Comando `serie compensation`
+
+Descrição detalhada sobre o comando `serie` com compensação.
+
+### Parâmetros:
+- `--compensation`: Ativa a compensação do pedal.
+- `--minimize`: Define qual detector minimizar.
+
+## Comando `power_impact_geral`
+
+Este comando realiza uma varredura geral para calcular o impacto de todos os detectores (H, V, D, A, S1, S2).
+
+### Parâmetros:
+- `--step`: Define o passo em graus para a varredura.
+- `--dwell`: Tempo de espera após cada movimento.
+- `--save_csv`: Salva os resultados da varredura em um arquivo CSV.
+
+## Comando `move`
+
+Este comando move um pedal específico do MPC320 para uma posição definida em graus.
+
+### Parâmetros:
+- `--paddle`: Define qual pedal mover (1, 2 ou 3).
+- `--pos`: Define a posição de destino em graus.
+
