@@ -1,4 +1,4 @@
-﻿# Polarization-control
+# Polarization-control
  
 Este repositório contém o código para controle de polarização utilizando **Raspberry Pi**, **ADS1115** para leitura de detectores e **MPC320** para controle dos pedais de polarização. O código oferece uma série de funcionalidades, como aquisição de dados em tempo real, controle de movimento dos pedais com compensação, e cálculos de parâmetros de Stokes (S1, S2).
 
@@ -54,6 +54,7 @@ Descrição detalhada sobre o comando `serie` com compensação.
 ### Parâmetros:
 - `--compensation`: Ativa a compensação do pedal.
 - `--minimize`: Define qual detector minimizar.
+- `--settle_s`: Define o tempo de espera da medição para compensação.
 
 ## Comando `power_impact_geral`
 
